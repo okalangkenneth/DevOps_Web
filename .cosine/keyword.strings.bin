@@ -1,0 +1,4 @@
+{ "key": "reg", "data": {"2":1} }
+{ "key": "reg.cfg", "data": {"doc":0,"opt":1} }
+{ "key": "reg.cfg.map", "data": [{},{"a":[2],"ap":[2],"app":[2]},{"r":[2],"ro":[2],"rou":[2],"rout":[2],"route":[2]},{"d":[2],"de":[2],"def":[2],"h":[2],"ho":[2],"hom":[2],"home":[2]},{"re":[2],"ret":[2],"retu":[2],"retur":[2],"return":[2]},{"ren":[2],"rend":[2],"rende":[2],"render":[2]},{"t":[2],"te":[2],"tem":[2],"temp":[2],"templ":[2],"templa":[2],"templat":[2],"template":[2],"i":[2],"in":[2],"ind":[2],"inde":[2],"index":[2]},{"ht":[2],"htm":[2],"html":[2]},{}] }
+{ "key": "reg.cfg.map.ctx", "data": [{}] }
